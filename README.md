@@ -32,7 +32,7 @@ Awesome content all about Azure Databricks, integrations with Azure or partner p
 
 ## Azure ML
 
-- [MLOps for Azure Databricks Example](https://github.com/SaschaDittmann/MLOps-Databricks)
+- [MLOps for Azure Databricks Example](https://github.com/SaschaDittmann/MLOps-Databricks) - Sascha Dittmann (Microsoft) - 13-04-2021
 
 # Architecture
 
