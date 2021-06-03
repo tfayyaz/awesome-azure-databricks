@@ -2,7 +2,7 @@
 
 Awesome content all about Azure Databricks, integrations with Azure or partner products and architecture guidance.
 
-# Product Integrations
+# Product Integrations - Data & Analytics
 
 ## ADLS gen2
 
@@ -27,6 +27,12 @@ Awesome content all about Azure Databricks, integrations with Azure or partner p
 ## Azure Networking
 
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
+
+# Product Integrations - ML/AI
+
+## Azure ML
+
+- [MLOps for Azure Databricks Example](https://github.com/SaschaDittmann/MLOps-Databricks)
 
 # Architecture
 
