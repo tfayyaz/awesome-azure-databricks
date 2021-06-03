@@ -8,6 +8,8 @@ Awesome content all about Azure Databricks, integrations with Azure or partner p
 
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
 
+## PowerBI
+
 ## Azure Data Factory
 
 ## Azure Cosmos DB
