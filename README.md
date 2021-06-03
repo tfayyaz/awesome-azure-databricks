@@ -20,6 +20,8 @@ Awesome content all about Azure Databricks and integrations with other Azure or 
 
 ## Azure Purview
 
+[Databricks Notebook lineage using Azure Purview Atlas API](https://techcommunity.microsoft.com/t5/azure-purview/march-ahead-with-azure-purview-unify-all-your-data-using-apache/ba-p/2185411) - Vishal Anil (Microsoft) - 03-08-2021
+
 ## Azure Networking
 
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
