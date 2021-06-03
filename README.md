@@ -7,11 +7,13 @@ Awesome content all about Azure Databricks, integrations with Azure or partner p
 ## Delta
 
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
+- [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
 
 ## Spark Structured Streaming
 
-- [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
+- [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
+- [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
 
 # Product Integrations - Data & Analytics
 
@@ -36,6 +38,8 @@ Awesome content all about Azure Databricks, integrations with Azure or partner p
 
 ## Kafka OSS and Confluent
 
+- [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
+- [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
 - [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
 
 ## Azure Purview
