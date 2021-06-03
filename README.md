@@ -20,7 +20,7 @@ Awesome content all about Azure Databricks and integrations with other Azure or 
 
 ## Azure Purview
 
-[Databricks Notebook lineage using Azure Purview Atlas API](https://techcommunity.microsoft.com/t5/azure-purview/march-ahead-with-azure-purview-unify-all-your-data-using-apache/ba-p/2185411) - Vishal Anil (Microsoft) - 03-08-2021
+[Databricks Notebook lineage using Azure Purview Atlas API](https://techcommunity.microsoft.com/t5/azure-purview/march-ahead-with-azure-purview-unify-all-your-data-using-apache/ba-p/2185411) - Vishal Anil (Microsoft) - 08-03-2021
 
 ## Azure Networking
 
