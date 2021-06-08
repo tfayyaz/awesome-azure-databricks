@@ -1,6 +1,6 @@
 # Awesome Azure Databricks
 
-Awesome content all about Azure Databricks, integrations with Azure or partner products and architecture guidance.
+Awesome content all about Azure Databricks features, integrations with Azure products, integrations with partner products and architecture guidance.
 
 # Azure Databricks Features
 
