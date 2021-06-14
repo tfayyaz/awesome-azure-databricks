@@ -58,4 +58,5 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 # Architecture
 
+- [Launching Databricks at If](https://medium.com/if-tech/launching-databricks-at-if-819be388aa8a) - Valdas Maksimavičius (Microsoft Data Platform MVP) - 31-03-2021
 - [From Warehouse to Lakehouse – ELT/ETL Design Patterns with Azure Data Services](https://sqlofthenorth.blog/2021/03/29/elt-etl-design-patterns-with-azure-data-services/) - Mike Dobing (Microsoft) - 29-03-2021
