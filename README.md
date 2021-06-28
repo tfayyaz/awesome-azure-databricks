@@ -16,6 +16,10 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) - Fabien Pomerol (Michelin) - 16-02-2021
 - [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra - 18-01-2019
 
+## Horovord
+
+- [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
+
 # Product Integrations - Data & Analytics
 
 ## ADLS gen2
@@ -28,6 +32,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 ## Azure Data Factory
  - [Just-in-time Azure Databricks access tokens and instance pools for Azure Data Factory pipelines using workspace automation](https://medium.com/microsoftazure/just-in-time-azure-databricks-access-tokens-and-instance-pools-for-azure-data-factory-pipelines-d1f8d1b6d28c) - Nicholas Hurt (Microsoft) - 08-06-2020
+- [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
 
 ## Azure Cosmos DB
 
@@ -52,6 +57,10 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 ## Azure Networking
 
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
+
+## Azure DevOps
+
+- [Elegant CICD with Databricks notebooks](https://codebeez.nl/blogs/elegant-cicd-databricks-notebooks/) - Rik Jongerius & Luuk van der Velden (Cloudbees) - 09-01-2021
 
 # Product Integrations - ML/AI
 
