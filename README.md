@@ -16,6 +16,10 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) - Fabien Pomerol (Michelin) - 16-02-2021
 - [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra - 18-01-2019
 
+## DBFS (Databricks File System)
+
+- [Storage options and File manipulation Commands in Azure Databricks](https://www.analyticsvidhya.com/blog/2021/06/storage-options-and-file-manipulation-commands-in-azure-databricks/) - Vikash Rajluhaniwal - 24-06-2021
+
 ## Horovord
 
 - [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
@@ -24,6 +28,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 ## ADLS gen2
 
+- [Storage options and File manipulation Commands in Azure Databricks](https://www.analyticsvidhya.com/blog/2021/06/storage-options-and-file-manipulation-commands-in-azure-databricks/) - Vikash Rajluhaniwal - 24-06-2021
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
 
 ## Power BI
