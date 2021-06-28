@@ -37,6 +37,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 ## Azure Cosmos DB
 
 - [Azure CosmosDB and Databricks notebooks](https://github.com/Azure/azure-cosmosdb-spark#using-databricks-notebooks)
+- [ntegrate Azure Cosmos DB with Azure Databricks](https://towardsdatascience.com/revealed-a-ridiculously-easy-way-to-integrate-azure-cosmos-db-with-azure-databricks-4314cce0259b) - Prashanth Xavier (Luxoft) - 09-01-2021
 
 ## Azure EventHub
 
