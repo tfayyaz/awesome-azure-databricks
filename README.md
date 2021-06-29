@@ -77,6 +77,10 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [DataOps 3 - Databricks Code Promotion using DevOps CI/CD - YouTube](https://www.youtube.com/watch?v=R7tJZelEt-Q&t=172s) - David Lusty (Microsoft) - 11-02-2020
 - [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
 
+## Azure Log Analytics
+
+- [Monitoring Azure Databricks in an Azure Log Analytics Workspace](https://github.com/mspnp/spark-monitoring)
+
 # Product Integrations - ML/AI
 
 ## Azure ML
