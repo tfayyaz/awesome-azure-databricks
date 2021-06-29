@@ -71,6 +71,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Elegant CICD with Databricks notebooks](https://codebeez.nl/blogs/elegant-cicd-databricks-notebooks/) - Rik Jongerius & Luuk van der Velden (Cloudbees) - 09-01-2021
 - [Databricks Notebook Promotion using Azure DevOps](https://medium.com/road-to-data-engineering/databricks-notebook-promotion-using-azure-devops-5f3da5306751) - Himansu Sekhar - 03-01-2021
+- [DataOps 3 - Databricks Code Promotion using DevOps CI/CD - YouTube](https://www.youtube.com/watch?v=R7tJZelEt-Q&t=172s) - David Lusty (Microsoft) - 11-02-2020
 
 # Product Integrations - ML/AI
 
