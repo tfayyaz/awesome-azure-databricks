@@ -4,7 +4,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 # Azure Databricks Features
 
-## Delta
+## Delta Lake
 
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
 - [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
@@ -25,7 +25,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
 
-# Product Integrations - Data & Analytics
+# Azure Product Integrations - Data & Analytics
 
 ## ADLS gen2
 
@@ -55,16 +55,11 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
 - [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra (Fexco) - 18-01-2019
 
-## Kafka OSS and Confluent
-
-- [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
-- [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
-- [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
-- [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra - 18-01-2019
-
 ## Azure Purview
 
 - [Databricks Notebook lineage using Azure Purview Atlas API](https://techcommunity.microsoft.com/t5/azure-purview/march-ahead-with-azure-purview-unify-all-your-data-using-apache/ba-p/2185411) - Vishal Anil (Microsoft) - 08-03-2021
+
+# Azure Product Integrations - Platform & DevOps
 
 ## Azure Networking
 
@@ -81,7 +76,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Monitoring Azure Databricks in an Azure Log Analytics Workspace](https://github.com/mspnp/spark-monitoring)
 
-# Product Integrations - ML/AI
+# Azure Product Integrations - Data Science, ML & AI
 
 ## Azure ML
 
@@ -92,3 +87,15 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Launching Databricks at If](https://medium.com/if-tech/launching-databricks-at-if-819be388aa8a) - Valdas Maksimavičius (Microsoft Data Platform MVP) - 31-03-2021
 - [From Warehouse to Lakehouse – ELT/ETL Design Patterns with Azure Data Services](https://sqlofthenorth.blog/2021/03/29/elt-etl-design-patterns-with-azure-data-services/) - Mike Dobing (Microsoft) - 29-03-2021
 - [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
+
+# Partner Product Integrations
+
+## Confluent & Kafka
+
+- [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) Fabien Pomerol (Michelin) - 16-02-2021
+- [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
+
+## dbt
+
+- [dbt Core integration with Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/dbt)
+- [dbt Cloud integration with Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/dbt-cloud)
