@@ -52,6 +52,9 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [NYC Taxi - Cosmos DB & Spark (Python)](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/cosmos/azure-cosmos-spark_3-1_2-12/Samples/Python/NYC-Taxi-Data/01_Batch.ipynb)
 - [NYC Taxi - Cosmos DB & Structured streaming](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/cosmos/azure-cosmos-spark_3-1_2-12/Samples/Python/NYC-Taxi-Data/02_StructuredStreaming.ipynb)
+- [Cosmos DB & PySpark – Retrieve all attributes from all Collections under all Databases](https://sqlwithmanoj.com/2021/04/12/cosmos-db-pyspark-retrieve-all-attributes-from-all-collections-under-all-databases/) - Manoj Pandey (Microsoft) - 12-04-2021
+- [Using Python in Azure Databricks with Cosmos DB – DDL & DML operations by using “Azure-Cosmos” library for Python](https://sqlwithmanoj.com/2021/04/09/using-python-in-azure-databricks-with-cosmos-db-to-retrieve-all-attributes-from-all-collections-under-all-databases/) - Manoj Pandey (Microsoft) - 09-04-2021
+- [Connect to Cosmos DB from Databricks and read data by using Apache Spark to Azure Cosmos DB connector](https://sqlwithmanoj.com/2021/04/07/connect-to-cosmos-db-from-databricks-and-read-data-by-apache-spark-to-azure-cosmos-db-connector/) - Manoj Pandey (Microsoft) - 07-04-2021
 - [Azure CosmosDB and Databricks notebooks](https://github.com/Azure/azure-cosmosdb-spark#using-databricks-notebooks)
 - [Integrate Azure Cosmos DB with Azure Databricks](https://towardsdatascience.com/revealed-a-ridiculously-easy-way-to-integrate-azure-cosmos-db-with-azure-databricks-4314cce0259b) - Prashanth Xavier (Luxoft) - 09-01-2021
 - [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
