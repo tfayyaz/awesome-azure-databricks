@@ -31,6 +31,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Storage options and File manipulation Commands in Azure Databricks](https://www.analyticsvidhya.com/blog/2021/06/storage-options-and-file-manipulation-commands-in-azure-databricks/) - Vikash Rajluhaniwal - 24-06-2021
 - [How to connect Databricks to your Azure Data Lake](https://towardsdatascience.com/how-to-connect-databricks-to-your-azure-data-lake-ff499f4ca1c) - René Bremer (Microsoft) - 01-05-2021
+- [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
 
 ## Power BI
 
@@ -39,6 +40,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 ## Azure Data Factory
  - [Just-in-time Azure Databricks access tokens and instance pools for Azure Data Factory pipelines using workspace automation](https://medium.com/microsoftazure/just-in-time-azure-databricks-access-tokens-and-instance-pools-for-azure-data-factory-pipelines-d1f8d1b6d28c) - Nicholas Hurt (Microsoft) - 08-06-2020
 - [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
+- [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
 
 ## Azure Cosmos DB
 
@@ -46,6 +48,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [NYC Taxi - Cosmos DB & Structured streaming](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/cosmos/azure-cosmos-spark_3-1_2-12/Samples/Python/NYC-Taxi-Data/02_StructuredStreaming.ipynb)
 - [Azure CosmosDB and Databricks notebooks](https://github.com/Azure/azure-cosmosdb-spark#using-databricks-notebooks)
 - [Integrate Azure Cosmos DB with Azure Databricks](https://towardsdatascience.com/revealed-a-ridiculously-easy-way-to-integrate-azure-cosmos-db-with-azure-databricks-4314cce0259b) - Prashanth Xavier (Luxoft) - 09-01-2021
+- [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
 
 ## Azure EventHub
 
@@ -72,6 +75,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Elegant CICD with Databricks notebooks](https://codebeez.nl/blogs/elegant-cicd-databricks-notebooks/) - Rik Jongerius & Luuk van der Velden (Cloudbees) - 09-01-2021
 - [Databricks Notebook Promotion using Azure DevOps](https://medium.com/road-to-data-engineering/databricks-notebook-promotion-using-azure-devops-5f3da5306751) - Himansu Sekhar - 03-01-2021
 - [DataOps 3 - Databricks Code Promotion using DevOps CI/CD - YouTube](https://www.youtube.com/watch?v=R7tJZelEt-Q&t=172s) - David Lusty (Microsoft) - 11-02-2020
+- [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
 
 # Product Integrations - ML/AI
 
@@ -83,3 +87,4 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Launching Databricks at If](https://medium.com/if-tech/launching-databricks-at-if-819be388aa8a) - Valdas Maksimavičius (Microsoft Data Platform MVP) - 31-03-2021
 - [From Warehouse to Lakehouse – ELT/ETL Design Patterns with Azure Data Services](https://sqlofthenorth.blog/2021/03/29/elt-etl-design-patterns-with-azure-data-services/) - Mike Dobing (Microsoft) - 29-03-2021
+- [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
