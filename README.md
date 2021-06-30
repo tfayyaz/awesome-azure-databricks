@@ -16,11 +16,15 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
 - [How to Consume Data from Apache Kafka Topics and Schema Registry with Confluent and Azure Databricks](https://www.confluent.io/blog/consume-avro-data-from-kafka-topics-and-secured-schema-registry-with-databricks-confluent-cloud-on-azure/) - Caio Moreno (Microsoft) - 04-02-2021
 - [From Kafka to Delta Lake using Apache Spark Structured Streaming](https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/) - Fabien Pomerol (Michelin) - 16-02-2021
+- [Stream Processing Event Hub Capture files with Autoloader](https://www.rakirahman.me/event-hub-capture-with-autoloader/) - Raki Rahman (Microsoft) - 04-01-2021
+- [Exploring Azure Schema Registry with Spark](https://www.rakirahman.me/azure-schemaregistry-spark/) - Raki Rahman (Microsoft) - 02-12-2020
 - [Incrementally Process Data Lake Files Using Azure Databricks Autoloader and Spark Structured Streaming API](https://chinnychukwudozie.com/2020/09/30/incrementally-process-data-lake-files-using-azure-databricks-autoloader-and-spark-structured-streaming-api/) - Charles Chukwudozie (Microsoft) - 30-09-2020 
+- [IBOR scenario using Azure Event Hubs and Azure Databricks](https://www.linkedin.com/pulse/ibor-scenario-using-azure-event-hubs-databricks-bananier-cipm/) - Laurent Bananier (Microsoft) - 17-08-2020
 - [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra - 18-01-2019
 
 ## Auto-Loader
 
+- [Stream Processing Event Hub Capture files with Autoloader](https://www.rakirahman.me/event-hub-capture-with-autoloader/) - Raki Rahman (Microsoft) - 04-01-2021
 - [Incrementally Process Data Lake Files Using Azure Databricks Autoloader and Spark Structured Streaming API](https://chinnychukwudozie.com/2020/09/30/incrementally-process-data-lake-files-using-azure-databricks-autoloader-and-spark-structured-streaming-api/) - Charles Chukwudozie (Microsoft) - 30-09-2020 
 
 ## DBFS (Databricks File System)
@@ -63,6 +67,9 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 - [Ingest Azure Event Hub Telemetry Data with Apache PySpark Structured Streaming on Databricks](https://chinnychukwudozie.com/2021/05/17/ingest-azure-event-hub-telemetry-data-with-apache-pyspark-structured-streaming-on-databricks/) - Charles Chukwudozie (Microsoft) - 17-05-2021
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
+- [Stream Processing Event Hub Capture files with Autoloader](https://www.rakirahman.me/event-hub-capture-with-autoloader/) - Raki Rahman (Microsoft) - 04-01-2021
+- [Exploring Azure Schema Registry with Spark](https://www.rakirahman.me/azure-schemaregistry-spark/) - Raki Rahman (Microsoft) - 02-12-2020
+- [IBOR scenario using Azure Event Hubs and Azure Databricks](https://www.linkedin.com/pulse/ibor-scenario-using-azure-event-hubs-databricks-bananier-cipm/) - Laurent Bananier (Microsoft) - 17-08-2020
 - [Real time stream processing with Databricks and Azure Event Hubs](https://techblog.fexcofts.com/2019/01/18/real-time-stream-processing-with-databricks-and-azure-event-hubs/) - Xavier Sierra (Fexco) - 18-01-2019
 
 ## Azure Purview
