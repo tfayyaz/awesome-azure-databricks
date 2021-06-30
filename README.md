@@ -78,6 +78,8 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 
 ## Azure DevOps
 
+- [Nutter for testing of Databricks notebooks in the CI/CD pipeline](https://github.com/alexott/databricks-nutter-projects-demo) - Alex Ott (Databricks) - 18-06-2021
+- [CI/CD Tenmplats for Databricks andAzure Devops](https://github.com/databrickslabs/cicd-templates)
 - [Using Terraform Outputs Connect To Azure Databricks Workspace via Azure DevOps](https://bzzzt.io/post/2021-05/2021-05-28-log-in-to-adb-workspace/) - Richie Lee (Sabin.io) -  28-05-2021
 - [Elegant CICD with Databricks notebooks](https://codebeez.nl/blogs/elegant-cicd-databricks-notebooks/) - Rik Jongerius & Luuk van der Velden (Cloudbees) - 09-01-2021
 - [Databricks Notebook Promotion using Azure DevOps](https://medium.com/road-to-data-engineering/databricks-notebook-promotion-using-azure-devops-5f3da5306751) - Himansu Sekhar - 03-01-2021
