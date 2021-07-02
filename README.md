@@ -78,6 +78,10 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Databricks Notebook lineage using Azure Purview Atlas API](https://techcommunity.microsoft.com/t5/azure-purview/march-ahead-with-azure-purview-unify-all-your-data-using-apache/ba-p/2185411) - Vishal Anil (Microsoft) - 08-03-2021
 - [Data Lineage from Databricks to Azure Purview](https://intellishore.dk/data-lineage-from-databricks-to-azure-purview/) - Anders Boje Hertz & Oliver Rise Thomsen (Intellishore) - 16-03-2021
 
+## Microsoft Presidio
+
+- [Anonymize PII using Presidio on Azure Databricks](https://microsoft.github.io/presidio/samples/deployments/spark/)
+
 # Azure Product Integrations - Platform & DevOps
 
 ## Azure Networking
