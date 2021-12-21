@@ -68,6 +68,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 ## Azure Event Hub
 
 - [Structured Streaming + Event Hubs Integration Guide for PySpark](https://github.com/Azure/azure-event-hubs-spark/blob/master/docs/PySpark/structured-streaming-pyspark.md) - Github
+- [Detecting SQL Column Decryption using Purview, Kafka, Kafdrop and Spark](https://www.rakirahman.me/purview-sql-cle-events-with-kafdrop/) - Raki Rahman (Microsoft) - 03-10-2021
 - [Ingest Azure Event Hub Telemetry Data with Apache PySpark Structured Streaming on Databricks](https://chinnychukwudozie.com/2021/05/17/ingest-azure-event-hub-telemetry-data-with-apache-pyspark-structured-streaming-on-databricks/) - Charles Chukwudozie (Microsoft) - 17-05-2021
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
 - [Stream Processing Event Hub Capture files with Autoloader](https://www.rakirahman.me/event-hub-capture-with-autoloader/) - Raki Rahman (Microsoft) - 04-01-2021
