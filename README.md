@@ -48,6 +48,7 @@ Awesome content all about Azure Databricks features, integrations with Azure pro
 - [Real-Time Data Streaming With Databricks, Spark & Power BI](https://www.insight.com/en_US/content-and-resources/tech-tutorials/real-time-data-streaming-with-databricks-spark-and-power-bi.html) - Bennie Haelen (Insight) - 03-03-2021
 
 ## Azure Data Factory
+ - [Putting the Factory in Azure Data Factory: Dynamically generated Pipelines](https://godatadriven.com/blog/putting-the-factory-in-azure-data-factory-dynamically-generated-pipelines/) - Daniel van der Ende (Go Data Driven) - 21-12-2021
  - [Just-in-time Azure Databricks access tokens and instance pools for Azure Data Factory pipelines using workspace automation](https://medium.com/microsoftazure/just-in-time-azure-databricks-access-tokens-and-instance-pools-for-azure-data-factory-pipelines-d1f8d1b6d28c) - Nicholas Hurt (Microsoft) - 08-06-2020
 - [Single-node and distributed Deep Learning on Databricks](https://codebeez.nl/blogs/single-node-and-distributed-deep-learning-databricks/) - Luuk van der Velden & Rik Jongerius (Codebeez) - 01-03-2021
 - [How to bring your modern data pipeline to production](https://towardsdatascience.com/how-to-bring-your-modern-data-pipeline-to-production-2f14e42ac200) - René Bremer (Microsoft) - 25-10-2020
